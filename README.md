@@ -5,17 +5,12 @@
 </h1>
 
 <p style="font-size:16px;">
-Techno Smarter QA is a complete solution for building a modern Question & Answer community website. The platform is designed for developers, startups, educational communities, support systems, and knowledge-sharing websites that need a lightweight and easy-to-manage Q&A platform. It's a fast-loading, lightweight, and secure system that helps you  grow your business and create your QA community website. It's designed and developed in PHP and MYSQL database with a secure structure.   
+Techno Smarter QA is a complete solution for building a modern Question & Answer community website. The platform is designed for developers, startups, educational communities, support systems, and knowledge-sharing websites that need a lightweight and easy-to-manage Q&A platform. It's a fast-loading, lightweight, and secure system that helps you grow your business and create your QA community website. It's designed and developed in PHP and MYSQL database with a secure structure.   
 </p>
 
 <p style="font-size:16px;">
-The idea behind this Q&A script was simple — create a clean, responsive, and fast-loading Q&A system without unnecessary complexity. Many existing QA forums and question-answer platforms are either too heavy, difficult to customize, or overloaded with heavy files that most websites never use. It was built with a lightweight structure from scratch. If you are looking for the best and modern Q&A question-answer platform script, then you can use the Techno SmarterQA system. 
+The idea behind this Q&A script was simple — create a clean, responsive, and fast-loading Q&A question-answer system without unnecessary complexity. Many existing QA forums and question-answer platforms are either too heavy, difficult to customize, or overloaded with heavy files that most websites never use. It was built with a lightweight structure from scratch. If you are looking for the best and modern Q&A question-answer platform script, then you can use the Techno SmarterQA system. 
 </p>
-
-<p style="font-size:16px;">
-This platform allows users to register, ask questions, submit answers, comment on questions and answers, vote on questions and answers, and interact with the community in an organized way. Everything is designed to provide a smooth experience for both visitors and administrators. This system is designed with a fully functional  Admin control Panel. An admin can control the complete Q&A data record and setup options from the dashboard. It allows you to install on any kind of website with a simple installer form. Techno Smarter QA is a powerful and modern Question & Answer platform script built to help you create your own Q&A platform.
-</p>
-
 <hr style="margin:30px 0;">
 
 <h2 style="font-size:28px; margin-bottom:15px;">
@@ -39,6 +34,12 @@ Q&A Details
 </p>
 
 <hr style="margin:30px 0;">
+
+<p style="font-size:16px;">
+This platform allows users to register, ask questions, submit answers, comment on questions and answers, vote on questions and answers, and interact with the community in an organized way. Everything is designed to provide a smooth experience for both visitors and administrators. This system is designed with a fully functional Admin control Panel. An admin can control the complete Q&A data record and setup options from the dashboard. It allows you to install on any kind of website server with a simple installer form. Techno Smarter QA is a powerful and modern Question & Answer platform script built to help you create your own Q&A platform.
+</p>
+
+
 
 <h2 style="font-size:28px; margin-bottom:15px;">
 ✨ Main Features of Techno Smarter QA question-aswer system
