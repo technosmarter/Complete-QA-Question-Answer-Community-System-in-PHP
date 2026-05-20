@@ -1,66 +1,150 @@
-# Complete-QA-Question-Answer-Community-System-in-PHP
-Techno Smarter QA is a complete solution for a QA question-answer website. This Q&A allows you to build your own question-answer platform without any issues. You can easily create your own knowledge-sharing platform with this system. It's a complete Question & Answer Website Script with Admin Panel. The idea behind this project was simple — create a lightweight, modern, and easy-to-manage Q&A system without unnecessary complexity.
-Many available forum (question-answer platform) systems are either too heavy, difficult to customize, or overloaded with features that most websites never use. While working on multiple web projects, we felt the need for a clean and practical Q&A platform that could be installed quickly and managed easily. That is how Techno Smarter QA was created.
-The platform allows users to register, ask questions, post answers, comment on question answers, vote on questions and answers, and interact with other members in a structured way. Everything is designed to keep the experience smooth for both visitors and administrators.
-<img width="630" height="354" alt="image" src="https://github.com/user-attachments/assets/5c5fe402-8fbf-4d54-ae94-39baa07c3156" />
-<img width="1297" height="632" alt="image" src="https://github.com/user-attachments/assets/f1ccfb8e-43da-49dd-b922-ad79016284ac" />
-<img width="1274" height="637" alt="image" src="https://github.com/user-attachments/assets/59940247-08ca-43a5-9d84-8ee41bdd902a" />
-<img width="1236" height="824" alt="image" src="https://github.com/user-attachments/assets/5660e450-d886-47a9-a4d6-d86ac4518096" />
+<div style="font-family:Arial, sans-serif; line-height:1.8; color:#222;">
 
-One of the biggest focuses during development was performance and usability. The script uses a lightweight structure, responsive layout, and optimized pages to keep loading speed fast across desktop and mobile devices.
+<h1 style="font-size:34px; font-weight:700; margin-bottom:10px;">
+🚀 Complete Q&A Question Answer Community System in PHP
+</h1>
 
-The admin panel gives full control over the platform. Questions, answers, comments, categories, users, tags, and settings can all be managed from a single dashboard. Moderation tools are included to help maintain content quality and reduce spam.
+<p style="font-size:16px;">
+Techno Smarter QA is a complete solution for building a modern Question & Answer community website using Core PHP and MySQL. The platform is designed for developers, startups, educational communities, support systems, and knowledge-sharing websites that need a lightweight and easy-to-manage Q&A platform.
+</p>
 
-The system also includes Google Login integration, SMTP mail settings, SEO-friendly URLs, user profiles, trending questions, tags, a voting system, statistics, and several customization options.
+<p style="font-size:16px;">
+The idea behind this project was simple — create a clean, responsive, and fast-loading Q&A system without unnecessary complexity. Many existing forum and question-answer platforms are either too heavy, difficult to customize, or overloaded with features that most websites never use.
+</p>
 
-<h2>Main Features</h2>
-User Registration & Login
-Google Login Integration
-Ask Questions & Submit Answers
-Upvote & Downvote System
-Comments for Questions & Answers
-Trending Questions & Tags
-Category Management
-User Profiles & Activity Stats
-Powerful Admin Panel
-SMTP Mail Configuration
-Responsive Design
-SEO Friendly Structure
-Cache & Logs Cleaner
-Lightweight & Fast Loading System
-Admin Panel Features
-User Management
-Question Management
-Answer Management
-Comment Moderation
-Category & Tag Management
-General Website Settings
-Google Login Settings
-SMTP Mail Settings
-Ads & Custom Code Sections
-Statistics Dashboard
-Cache Cleaner Tools
+<p style="font-size:16px;">
+This platform allows users to register, ask questions, submit answers, comment on discussions, vote on questions and answers, and interact with the community in an organized way. Everything is designed to provide a smooth experience for both visitors and administrators.
+</p>
 
-<h2>This platform can be used for:</h2>
+<hr style="margin:30px 0;">
 
-Question & Answer Websites
-Educational Communities
-Support Platforms
-Developer Forums
-Startup Communities
-Knowledge Sharing Websites
-Internal Company Help Systems
-🛒 Details and Demo 
-Techno Smarter QA Script
+<h2 style="font-size:28px; margin-bottom:15px;">
+📸 Screenshots
+</h2>
+
+<p align="center">
+<img width="630" height="354" alt="image" src="https://github.com/user-attachments/assets/5c5fe402-8fbf-4d54-ae94-39baa07c3156" style="border-radius:10px; margin-bottom:20px; max-width:100%;" />
+</p>
+
+<p align="center">
+<img width="1297" height="632" alt="image" src="https://github.com/user-attachments/assets/f1ccfb8e-43da-49dd-b922-ad79016284ac" style="border-radius:10px; margin-bottom:20px; max-width:100%;" />
+</p>
+
+<p align="center">
+<img width="1274" height="637" alt="image" src="https://github.com/user-attachments/assets/59940247-08ca-43a5-9d84-8ee41bdd902a" style="border-radius:10px; margin-bottom:20px; max-width:100%;" />
+</p>
+
+<p align="center">
+<img width="1236" height="824" alt="image" src="https://github.com/user-attachments/assets/5660e450-d886-47a9-a4d6-d86ac4518096" style="border-radius:10px; margin-bottom:20px; max-width:100%;" />
+</p>
+
+<hr style="margin:30px 0;">
+
+<h2 style="font-size:28px; margin-bottom:15px;">
+✨ Main Features
+</h2>
+
+<ul style="font-size:16px; padding-left:20px;">
+<li>User Registration & Login</li>
+<li>Google Login Integration</li>
+<li>Ask Questions & Submit Answers</li>
+<li>Upvote & Downvote System</li>
+<li>Comments for Questions & Answers</li>
+<li>Trending Questions & Tags</li>
+<li>Category Management</li>
+<li>User Profiles & Activity Stats</li>
+<li>Powerful Admin Panel</li>
+<li>SMTP Mail Configuration</li>
+<li>Responsive Design</li>
+<li>SEO Friendly Structure</li>
+<li>Cache & Logs Cleaner</li>
+<li>Lightweight & Fast Loading System</li>
+</ul>
+
+<hr style="margin:30px 0;">
+
+<h2 style="font-size:28px; margin-bottom:15px;">
+🛠️ Admin Panel Features
+</h2>
+
+<ul style="font-size:16px; padding-left:20px;">
+<li>User Management</li>
+<li>Question Management</li>
+<li>Answer Management</li>
+<li>Comment Moderation</li>
+<li>Category & Tag Management</li>
+<li>General Website Settings</li>
+<li>Google Login Settings</li>
+<li>SMTP Mail Settings</li>
+<li>Ads & Custom Code Sections</li>
+<li>Statistics Dashboard</li>
+<li>Cache Cleaner Tools</li>
+</ul>
+
+<hr style="margin:30px 0;">
+
+<h2 style="font-size:28px; margin-bottom:15px;">
+🎯 Suitable For
+</h2>
+
+<ul style="font-size:16px; padding-left:20px;">
+<li>Question & Answer Websites</li>
+<li>Educational Communities</li>
+<li>Support Platforms</li>
+<li>Developer Forums</li>
+<li>Startup Communities</li>
+<li>Knowledge Sharing Websites</li>
+<li>Internal Company Help Systems</li>
+</ul>
+
+<hr style="margin:30px 0;">
+
+<h2 style="font-size:28px; margin-bottom:15px;">
+🛒 Demo & Product Page
+</h2>
+
+<p style="font-size:16px;">
+<strong>Live Demo:</strong><br>
+<a href="https://technosmarter.com/qa/" target="_blank">
+https://technosmarter.com/qa/
+</a>
+</p>
+
+<p style="font-size:16px;">
+<strong>Product Page:</strong><br>
+<a href="https://technosmarter.com/item/question-answer-website-script" target="_blank">
 https://technosmarter.com/item/question-answer-website-script
+</a>
+</p>
 
-The project will continue receiving future improvements, feature updates, security updates, and support. Customization services are also available for businesses or developers who want additional functionality.
+<hr style="margin:30px 0;">
 
-Contact
+<h2 style="font-size:28px; margin-bottom:15px;">
+🔄 Future Updates & Support
+</h2>
 
-🌐 Website
-Techno Smarter
+<p style="font-size:16px;">
+The project will continue receiving future improvements, feature updates, security updates, and support. Customization services are also available for developers or businesses who need additional functionality.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h2 style="font-size:28px; margin-bottom:15px;">
+📩 Contact
+</h2>
+
+<p style="font-size:16px;">
+🌐 Website<br>
+<a href="https://technosmarter.com/" target="_blank">
 https://technosmarter.com/
-📩 Contact Page
-Contact Us
+</a>
+</p>
+
+<p style="font-size:16px;">
+📩 Contact Page<br>
+<a href="https://technosmarter.com/contact" target="_blank">
 https://technosmarter.com/contact
+</a>
+</p>
+
+</div>
