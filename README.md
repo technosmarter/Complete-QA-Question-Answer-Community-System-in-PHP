@@ -19,7 +19,7 @@ This platform allows users to register, ask questions, submit answers, comment o
 <hr style="margin:30px 0;">
 
 <h2 style="font-size:28px; margin-bottom:15px;">
-📸 Screenshots
+Q&A Details
 </h2>
 
 <p align="center">
@@ -41,7 +41,7 @@ This platform allows users to register, ask questions, submit answers, comment o
 <hr style="margin:30px 0;">
 
 <h2 style="font-size:28px; margin-bottom:15px;">
-✨ Main Features
+✨ Main Features of Techno Smarter QA question-aswer system
 </h2>
 
 <ul style="font-size:16px; padding-left:20px;">
@@ -64,7 +64,7 @@ This platform allows users to register, ask questions, submit answers, comment o
 <hr style="margin:30px 0;">
 
 <h2 style="font-size:28px; margin-bottom:15px;">
-🛠️ Admin Panel Features
+🛠️ Admin Panel Features of QA system
 </h2>
 
 <ul style="font-size:16px; padding-left:20px;">
@@ -98,10 +98,6 @@ This platform allows users to register, ask questions, submit answers, comment o
 </ul>
 
 <hr style="margin:30px 0;">
-
-<h2 style="font-size:28px; margin-bottom:15px;">
-🛒 Demo & Product Page
-</h2>
 
 <p style="font-size:16px;">
 <strong>Live Demo & Details  | Complete Question-Answer website script :</strong><br>
